@@ -1,2 +1,0 @@
-# nembak
-nembak
